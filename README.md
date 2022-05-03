@@ -1,4 +1,4 @@
-## Olá, me chamo Vinícius Rafael. Tenho 20 anos e meu foco é desenvolvimento web. Neste perfil do github hospedo meus projetos de estudo por conta e também da faculdade.
+## Olá, me chamo Vinícius Rafael e tenho 20 anos. Atualmente meu foco é voltado para desenvolvimento web. Utilizo este perfil projetos de estudo por conta e também da faculdade.
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniraf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniraf&layout=compact&langs_count=7&theme=dark"/>
