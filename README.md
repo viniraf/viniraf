@@ -1,4 +1,4 @@
-## Olá, me chamo Vinícius Rafael e tenho 21 anos. Atualmente possuo básicos conhecimento de Desenvolvimento Full Stack, me identificando mais com o Backend. Utilizo este perfil para guardar projetos de estudo por conta e também da faculdade.
+## Olá, me chamo Vinícius Rafael e tenho 21 anos. Atualmente possuo conhecimentos de Desenvolvimento Web Full Stack, me identificando mais com o Backend. Utilizo este perfil para guardar projetos de estudo e também da faculdade.
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniraf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniraf&layout=compact&langs_count=7&theme=dark"/>
@@ -14,8 +14,6 @@
   <img align="center" alt="Vini-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
   <img align="center" alt="Vini-Dot-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Vini-Visual-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  
- 
 </div>
 
 ##
